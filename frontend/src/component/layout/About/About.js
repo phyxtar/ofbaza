@@ -1,7 +1,10 @@
 import React from 'react';
 import './aboutSection.css';
 import director from '../../../images/director.png';
-import { Button, Typography, Avatar } from '@material-ui/core';
+// import { Button, Typography, Avatar } from '@material-ui/core';
+import Button from '@mui/material/Button';
+import Typography from '@mui/material/Typography';
+import Avatar from '@mui/material/Avatar';
 import YouTubeIcon from '@material-ui/icons/YouTube';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import FacebookIcon from '@material-ui/icons/Facebook';

@@ -1,4 +1,5 @@
-import { Typography } from '@material-ui/core';
+// import { Typography } from '@material-ui/core';
+import Typography from '@mui/material/Typography';
 import React, { useEffect } from 'react';
 import MetaData from '../layout/MetaData.js';
 import Sidebar from './Sidebar.js';

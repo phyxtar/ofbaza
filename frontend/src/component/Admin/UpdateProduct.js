@@ -6,7 +6,7 @@ import {
   getProductDetails,
 } from '../../actions/productAction';
 import { useAlert } from 'react-alert';
-import { Button } from '@material-ui/core';
+import Button from '@mui/material/Button';
 import MetaData from '../layout/MetaData';
 import AccountTreeIcon from '@material-ui/icons/AccountTree';
 import DescriptionIcon from '@material-ui/icons/Description';
